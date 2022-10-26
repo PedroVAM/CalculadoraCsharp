@@ -1,0 +1,17 @@
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\bin\Debug\net6.0-windows\Calculadora Simples.exe
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\bin\Debug\net6.0-windows\Calculadora Simples.deps.json
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\bin\Debug\net6.0-windows\Calculadora Simples.runtimeconfig.json
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\bin\Debug\net6.0-windows\Calculadora Simples.dll
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\bin\Debug\net6.0-windows\Calculadora Simples.pdb
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\obj\Debug\net6.0-windows\Calculadora Simples.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\obj\Debug\net6.0-windows\Calculadora_Simples.Form1.resources
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\obj\Debug\net6.0-windows\Calculadora Simples.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\obj\Debug\net6.0-windows\Calculadora Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\obj\Debug\net6.0-windows\Calculadora Simples.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\obj\Debug\net6.0-windows\Calculadora Simples.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\obj\Debug\net6.0-windows\Calculadora Simples.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\obj\Debug\net6.0-windows\Calculadora Simples.dll
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\obj\Debug\net6.0-windows\refint\Calculadora Simples.dll
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\obj\Debug\net6.0-windows\Calculadora Simples.pdb
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\obj\Debug\net6.0-windows\Calculadora Simples.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Projeto C#\Calculadora Simples\obj\Debug\net6.0-windows\ref\Calculadora Simples.dll
